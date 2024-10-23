@@ -1,6 +1,6 @@
-# 📱 PROYECTO 787🇵🇷 📱
+# 📱 PROYECTO787🇵🇷 📱
 
-Welcome to **PROYECTO 787🇵🇷** ! Here, you’ll find a curated selection of tweaked iOS apps that offer enhanced features and improved functionality over the original versions.
+Welcome to **PROYECTO787🇵🇷** ! Here, you’ll find a curated selection of tweaked iOS apps that offer enhanced features and improved functionality over the original versions.
 
 ---
 
