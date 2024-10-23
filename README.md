@@ -14,6 +14,7 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 | **YouTube Patcher** | [Download](https://cydia.ichitaso.com/depiction/youtubepatcher.html)| Unlock premium features on YouTube without a subscription.    |
 | **BH Twitter**     | [Download](https://github.com/BandarHL/BHTwitter) | Enhance your Twitter experience with custom options.         |
 | **Eevee Spotify**  | [Download](https://github.com/whoeevee/EeveeSpotify) |This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.|
+| **Reddit Filter**         | [Download](https://github.com/level3tjg/RedditFilter)             | Filter out unwanted content from your Reddit feed. |
 
 ---
 
@@ -45,6 +46,7 @@ Special thanks to the developers who made these tweaks possible:
 - [Developer of Watusi](https://x.com/FouadRaheb)
 - [Developer of YouTubePatcher](https://x.com/ichitaso)
 - [Developer of EOS](https://t.me/sezoapp)
+- [Developer of Reddit Filter](https://x.com/level3tjg)
 
 
 We truly appreciate their effort and creativity in enhancing the app experiences.
