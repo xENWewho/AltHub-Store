@@ -32,7 +32,7 @@ To install the tweaked apps on your iOS device, use one of the following sideloa
 
 ## 🛠 Issues and Support
 
-If you encounter any bugs, have any questions, or need support, please open an issue in the [Issues section](#). **However, note that issues related to the original apps are outside the scope of this repository**. 
+If you encounter any bugs, have any questions, or need support, please open an issue in the [Issues section](https://github.com/xENWewho/Proyecto787/issues). **However, note that issues related to the original apps are outside the scope of this repository**. 
 
 ---
 
