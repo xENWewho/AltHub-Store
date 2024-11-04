@@ -61,6 +61,9 @@ We truly appreciate their effort and creativity in enhancing the app experiences
 - **Respect Developers**: We encourage users to respect the original app developers’ terms of service and intellectual property. We do not condone piracy or any illegal activities.
 - **Legal Compliance**: You are responsible for ensuring your actions comply with local laws and regulations.
 
+- **DONT ASK FOR PIRATE TWEAKS**
+
+
 ---
 
 ## 📝 License
