@@ -18,7 +18,7 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 
 ---
 
-## ⚙️ Sideloading Tools
+## ⚙️ Sideloading And iPA Tools
 
 To install the tweaked apps on your iOS device, use one of the following sideloading tools:
 
@@ -27,7 +27,8 @@ To install the tweaked apps on your iOS device, use one of the following sideloa
 | **AltStore**| [Download](https://altstore.io/)           | A reliable sideloading tool that installs apps via your Apple ID. |
 | **Sideloadly** | [Download](https://sideloadly.io/)      | Easy-to-use tool to sideload apps on iOS devices. |
 | **Feather** | [Download](https://github.com/khcrysalis/Feather/) | Lightweight and efficient tool for sideloading apps with Signing Certificate. |
-
+| **Pyzule - Cyan** | [Download](https://github.com/asdfzxcvbn/pyzule-rw/) | An azule "clone" written in python3. |
+| **EeveeDecryptBot** | [Download](https://t.me/eeveedecrypterbot/) | Decrypt iPA and Download. |
 ---
 
 ## 🛠 Issues and Support
