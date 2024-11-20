@@ -20,7 +20,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Youtube-Patcher-19.46.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
-      "name": "Youtube Patcher",
+      "name": "Youtube Patcher", [,
         ""
       ],
       "subtitle": "",
@@ -31,7 +31,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/TikTok-Eos-37.2.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
-      "name": "TikTok Eos",
+      "name": "TikTok Eos", [,
         ""
       ],
       "subtitle": "",
@@ -42,7 +42,7 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.68.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
-      "name": "Twitter BH",
+      "name": "Twitter BH", [,
         ""
       ],
       "subtitle": "",
@@ -53,7 +53,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-358.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
-      "name": "Instagram Regram",
+      "name": "Instagram Regram", [,
         ""
       ],
       "subtitle": "",
@@ -64,7 +64,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-IGFormat-358.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
-      "name": "Instagram IGFormat",
+      "name": "Instagram IGFormat", [,
         ""
       ],
       "subtitle": "",
@@ -75,7 +75,7 @@
       "bundleIdentifier": "com.spotify.client",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Spotify-Eevee-8.9.92.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Spotify.png",
-      "name": "Spotify Eevee",
+      "name": "Spotify Eevee", [,
         ""
       ],
       "subtitle": "",
@@ -86,7 +86,7 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2024.47.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/RedditNew.png",
-      "name": "Reddit Filter",
+      "name": "Reddit Filter", [,
         ""
       ],
       "subtitle": "",
