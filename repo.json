@@ -1,6 +1,6 @@
 {
   "name": "Proyecto787 Repository",
-  "identifier": "com.proyecto787.repo",
+  "identifier": "",
   "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/repologo.png",
   "apps": [
     {
@@ -14,12 +14,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v24.22.82 - Tweak v1.2.44",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -32,12 +26,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v19.46.3 - Tweak v1.7.6",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -50,12 +38,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v19.46.3 - Tweak v0.6",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -68,12 +50,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v37.2.0 - Tweak v1.0.0 b7",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -86,12 +62,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v10.68 - Tweak v4.3-1",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -104,12 +74,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v358.0.0 - Tweak v1.0 b15",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -122,12 +86,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v358.0.0 - Tweak v1.17",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -140,12 +98,6 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v8.9.92 - Tweak v5.8.1",
-      "versionDate": "",
-      "versionDescription": ""
     },
     {
       "beta": false,
@@ -158,15 +110,9 @@
       "screenshotURLs": [
         ""
       ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "App v2024.47.0 - Tweak v1.1.6",
-      "versionDate": "",
-      "versionDescription": ""
     }
   ],
-  "identifier": "com.proyecto787.repo",
+  "identifier": "",
   "name": "Proyecto787 Repository",
   "news": [],
   "userInfo": {}
