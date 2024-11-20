@@ -1,135 +1,137 @@
 {
-    "name": "Proyecto787 Repository",
-    "identifier": "",
-    "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/repologo.png",
-    "apps": [
-        {
-            "beta": false,
-            "bundleIdentifier": "net.whatsapp.WhatsApp",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Whatsapp-Watusi-24.22.82.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Whatsapp.png",
-            "localizedDescription": "",
-            "name": "Whatsapp Watusi",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v24.22.82 - Tweak v1.2.44",
-            "versionDate": "",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Youtube-Patcher-19.46.3.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
-            "localizedDescription": "",
-            "name": "Youtube Patcher",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v19.46.3 - Tweak v0.6",
-            "versionDate": "",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/TikTok-Eos-37.2.0.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
-            "localizedDescription": "",
-            "name": "TikTok Eos",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v37.2.0 - Tweak v1.0.0 b7",
-            "versionDate": "",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.68.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
-            "localizedDescription": "",
-            "name": "Twitter BH",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v10.68 - Tweak v4.3",
-            "versionDate": "",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.burbn.instagram",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-358.0.0.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
-            "localizedDescription": "",
-            "name": "Instagram Regram",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v358.0.0 - Tweak v1.0 b17",
-            "versionDate": "",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.spotify.client",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Spotify-Eevee-8.9.92.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Spotify.png",
-            "localizedDescription": "",
-            "name": "Spotify Eevee",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v8.9.82 - Tweak v5.8.1",
-            "versionDate": "",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.reddit.Reddit",
-            "developerName": "",
-            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2024.47.0.ipa",
-            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
-            "localizedDescription": "",
-            "name": "Reddit Filter",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "",
-            "tintColor": "",
-            "version": "App v2024.47.0 - Tweak v1.1.6",
-            "versionDate": "",
-            "versionDescription": ""
-        }
-    ],
-    "news": [],
-    "userInfo": {}
+  "name": "Proyecto787 Repository",
+  "identifier": "proyecto787-repo",
+  "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/repologo.png",
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Whatsapp-Watusi-24.22.82.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Whatsapp.png",
+      "localizedDescription": "",
+      "name": "Whatsapp Watusi",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v24.22.82 - Tweak v1.2.44",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Youtube-Patcher-19.46.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
+      "localizedDescription": "",
+      "name": "Youtube Patcher",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v19.46.3 - Tweak v0.6",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/TikTok-Eos-37.2.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
+      "localizedDescription": "",
+      "name": "TikTok Eos",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v37.2.0 - Tweak v1.0.0 b7",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.68.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
+      "localizedDescription": "",
+      "name": "Twitter BH",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v10.68 - Tweak v4.3",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-358.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
+      "localizedDescription": "",
+      "name": "Instagram Regram",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v358.0.0 - Tweak v1.0 b17",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Spotify-Eevee-8.9.92.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Spotify.png",
+      "localizedDescription": "",
+      "name": "Spotify Eevee",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v8.9.82 - Tweak v5.8.1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2024.47.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
+      "localizedDescription": "",
+      "name": "Reddit Filter",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v2024.47.0 - Tweak v1.1.6",
+      "versionDate": "",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "proyecto787-repo",
+  "name": "Proyecto787 Repository",
+  "news": [],
+  "userInfo": {}
 }
