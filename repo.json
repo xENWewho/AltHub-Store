@@ -1,6 +1,6 @@
 {
   "name": "Proyecto787 Repository",
-  "identifier": "proyecto787-repo",
+  "identifier": "Proyecto787-Repo",
   "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/repologo.png",
   "apps": [
     {
@@ -130,7 +130,7 @@
       "versionDescription": ""
     }
   ],
-  "identifier": "proyecto787-repo",
+  "identifier": "Proyecto787-Repo",
   "name": "Proyecto787 Repository",
   "news": [],
   "userInfo": {}
