@@ -35,7 +35,25 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "018084",
-      "version": "App v19.46.3 - Tweak v1.7.5",
+      "version": "App v19.46.3 - Tweak v1.7.6",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Youtube-Patcher-19.46.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
+      "localizedDescription": "",
+      "name": "Youtube Patcher",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "App v19.46.3 - Tweak v0.6",
       "versionDate": "",
       "versionDescription": ""
     },
