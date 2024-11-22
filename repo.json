@@ -95,6 +95,24 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-358.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
+      "localizedDescription": "",
+      "name": "Instagram IGFormat",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v358.0.0 - Tweak v1.18",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Spotify-Eevee-8.9.92.ipa",
