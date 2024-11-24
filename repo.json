@@ -38,6 +38,24 @@
       "version": "App v19.46.3 - Tweak v0.6",
       "versionDate": "",
       "versionDescription": ""
+      },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/YoutubeMusic-Patcher-7.28.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
+      "localizedDescription": "",
+      "name": "YoutubeMusic Patcher",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v7.28.3 - Tweak v0.6",
+      "versionDate": "",
+      "versionDescription": ""
     },
     {
       "beta": false,
@@ -90,6 +108,24 @@
       "subtitle": "",
       "tintColor": "",
       "version": "App v358.0.0 - Tweak v1.0 b17",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-IGFormat-358.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
+      "localizedDescription": "",
+      "name": "Instagram IGFormat",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v358.0.0 - Tweak v1.18",
       "versionDate": "",
       "versionDescription": ""
     },
