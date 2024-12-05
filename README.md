@@ -9,8 +9,10 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 | Tweak Name           | Download Link                                             | Description                                                  |
 |--------------------|-----------------------------------------------------------|--------------------------------------------------------------|
 | **Regram**         | [Download](https://www.patreon.com/FouadRaheb)             | Unlock advanced Instagram features. |
+| **IGFormat**         | [Download](https://t.me/DENS0R)             | Advanced Instagram features. |
 | **Watusi**         | [Download](https://github.com/FouadRaheb/Watusi-for-WhatsApp) | The all-in-one tweak for WhatsApp Messenger!  |
 | **Eos For TikTok** | [Download](https://t.me/sezoapp)                              | Supercharge your experience on TikTok with 50+ enhancements, utilities and customization.|
+| **VibeTok** | [Download](https://t.me/DENS0R)                              | Supercharge your experience on TikTok |
 | **YouTube Patcher** | [Download](https://cydia.ichitaso.com/depiction/youtubepatcher.html)| Unlock premium features on YouTube / Music without a subscription.    |
 | **YouTube X** | [Download](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.ytx/)| A lightweight YouTube improvement tweak.    |
 | **BH Twitter**     | [Download](https://github.com/BandarHL/BHTwitter) | Enhance your Twitter experience with custom options.         |
@@ -50,6 +52,7 @@ Special thanks to the developers who made these tweaks possible:
 - [Developer of YouTubeX](https://x.com/PoomSmart)
 - [Developer of EOS](https://t.me/sezoapp)
 - [Developer of Reddit Filter](https://x.com/level3tjg)
+- [Developer of IGFormat / Vibetok](https://x.com/xDensor)
 
 
 We truly appreciate their effort and creativity in enhancing the app experiences.
