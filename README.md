@@ -15,7 +15,8 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 | **Eos For TikTok** | [Download](https://t.me/sezoapp)                              | Supercharge your experience on TikTok with 50+ enhancements, utilities and customization.|
 | **VibeTok** | [Download](https://t.me/DENS0R)                              | Supercharge your experience on TikTok |
 | **YouTube Patcher** | [Download](https://cydia.ichitaso.com/depiction/youtubepatcher.html)| Unlock premium features on YouTube / Music without a subscription.    |
-| **YouTube X** | [Download](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.ytx/)| A lightweight YouTube improvement tweak.    |
+| **YouTube Lite** | [Download](https://github.com/dayanch96/YTLite)| A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.    |
+| **YouTubeMusic Ultimate** | [Download](https://github.com/dayanch96/YTMusicUltimate)| The best tweak for the YouTube Music on iOS.    |
 | **BH Twitter**     | [Download](https://github.com/BandarHL/BHTwitter) | Enhance your Twitter experience with custom options.         |
 | **TWI Galaxy**     | [Download](https://t.me/DENS0R) | Enhance your Twitter experience with custom options.         |
 | **Eevee Spotify**  | [Download](https://github.com/whoeevee/EeveeSpotify) |This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.|
@@ -51,11 +52,12 @@ Special thanks to the developers who made these tweaks possible:
 - [Developer of BH Twitter](https://x.com/BandarHL)
 - [Developer of Watusi](https://x.com/FouadRaheb)
 - [Developer of YouTubePatcher](https://x.com/ichitaso)
-- [Developer of YouTubeX](https://x.com/PoomSmart)
+- [Developer of YTLite / YTMusicUltimate](https://x.com/Dayanch96)
 - [Developer of EOS](https://t.me/sezoapp)
 - [Developer of Reddit Filter](https://x.com/level3tjg)
 - [Developer of IGFormat / VibeTok / TWIGalaxy](https://x.com/xDensor)
 - [Developer of Rocket](https://x.com/freemanrepo)
+
 
 
 We truly appreciate their effort and creativity in enhancing the app experiences.
