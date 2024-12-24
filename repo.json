@@ -43,6 +43,24 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Youtube-Lite-19.49.7.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
+      "localizedDescription": "",
+      "name": "Youtube Lite",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v19.49.7 - Tweak v5.1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/YoutubeMusic-Patcher-7.31.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/YoutubeMusic.png",
       "localizedDescription": "",
@@ -54,6 +72,24 @@
       "subtitle": "",
       "tintColor": "",
       "version": "App v7.31.3 - Tweak v0.6",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/YoutubeMusic-Ultimate-7.31.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/YoutubeMusic.png",
+      "localizedDescription": "",
+      "name": "Youtube Music Ultimate",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v7.31.3 - Tweak v2.3",
       "versionDate": "",
       "versionDescription": ""
     },
