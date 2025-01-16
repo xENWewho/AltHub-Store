@@ -41,27 +41,9 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/TikTok-Eos-38.1.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
-      "localizedDescription": "",
-      "name": "TikTok Eos [💵]",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v38.1.0 - Tweak v1.0.0 b7",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.75.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.76.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
       "localizedDescription": "",
       "name": "Twitter BH",
@@ -71,7 +53,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v10.75 - Tweak v4.3",
+      "version": "App v10.76 - Tweak v4.3",
       "versionDate": "",
       "versionDescription": ""
     },
@@ -89,25 +71,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v362.1.0 - Tweak v1.0 b19",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-BH-362.1.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
-      "localizedDescription": "",
-      "name": "Instagram BH",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v362.1.0 - Tweak v1.1",
+      "version": "App v362.1.0 - Tweak v1.0 b20",
       "versionDate": "",
       "versionDescription": ""
     },
@@ -115,7 +79,7 @@
       "beta": false,
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2024.50.1.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.02.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
       "localizedDescription": "",
       "name": "Reddit Filter",
@@ -125,7 +89,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v2024.50.1 - Tweak v1.1.6",
+      "version": "App v2025.02.0 - Tweak v1.1.6",
       "versionDate": "",
       "versionDescription": ""
     }
