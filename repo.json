@@ -61,7 +61,7 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.77.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.77.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
       "localizedDescription": "",
       "name": "Twitter BH",
@@ -71,7 +71,43 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v10.77 - Tweak v4.3",
+      "version": "App v10.77.1 - Tweak v4.3",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Youtube-Plus-20.03.02.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
+      "localizedDescription": "",
+      "name": "Youtube Plus [OFFLINE]",
+      "screenshotURLs": [
+        ""                  
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v20.03.02 - Tweak v5.1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/YoutubeMusic-Ultimate-8.03.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/YoutubeMusic.png",
+      "localizedDescription": "",
+      "name": "Youtube Music Ultimate [OFFLINE]",
+      "screenshotURLs": [
+        ""                  
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "",
+      "version": "App v8.03 - Tweak v2.3.1",
       "versionDate": "",
       "versionDescription": ""
     },
