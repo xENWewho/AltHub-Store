@@ -12,6 +12,8 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 | **IGFormat**         | [Download](https://t.me/DENS0R) | Unlock advanced Instagram features. |
 | **Rocket**         | [Download](https://www.ios-repo-updates.com/repository/majd-alfhaily/package/me.alfhaily.rocket/) | Save posts and view stories anonymously and do much more.|
 | **BH Instagram**   | [Download](https://github.com/BandarHL/BHInstagram) | An awesome tweak for Instagram!|
+| **Wolf**   | [Download](https://www.ios-repo-updates.com/repository/bigboss/package/com.lema.wolf/) | The all-in-one tweak for Facebook!|
+| **FacebookNoAds**   | [Download](https://www.ios-repo-updates.com/repository/p2kdev-s-repo/package/com.p2kdev.facebooknoads/) | No Ads in the Facebook App!|
 | **Watusi**         | [Download](https://github.com/FouadRaheb/Watusi-for-WhatsApp) | The all-in-one tweak for WhatsApp Messenger!|
 | **Eos For TikTok** | [Download](https://t.me/sezoapp) | Supercharge your experience on TikTok with 50+ enhancements, utilities and customization.|
 | **VibeTok** | [Download](https://t.me/DENS0R) | Supercharge your experience on TikTok |
@@ -58,6 +60,8 @@ Special thanks to the developers who made these tweaks possible:
 - [Developer of Reddit Filter](https://x.com/level3tjg)
 - [Developer of IGFormat / VibeTok / TWIGalaxy](https://x.com/xDensor)
 - [Developer of Rocket](https://x.com/freemanrepo)
+- [Developer of Wolf](https://x.com/ClassicEmoji)
+- [Developer of FacebookNoAds](https://x.com/p2kdev)
 
 
 
