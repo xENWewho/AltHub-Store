@@ -43,7 +43,7 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.83.2.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.84.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
       "localizedDescription": "",
       "name": "Twitter BH",
@@ -53,7 +53,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v10.83.2 - Tweak v4.3",
+      "version": "App v10.84 - Tweak v4.3",
       "versionDate": "",
       "versionDescription": ""
     },
@@ -61,7 +61,7 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-370.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-371.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
       "localizedDescription": "",
       "name": "Instagram Regram [💵]",
@@ -71,7 +71,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v370.0.0 - Tweak v1.0 b23",
+      "version": "App v371.0.0 - Tweak v1.0 b23",
       "versionDate": "",
       "versionDescription": ""
     },
@@ -97,7 +97,7 @@
       "beta": false,
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.09.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.10.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
       "localizedDescription": "",
       "name": "Reddit Filter",
@@ -107,7 +107,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "",
-      "version": "App v2025.09.0 - Tweak v1.1.7",
+      "version": "App v2025.10.0 - Tweak v1.1.7",
       "versionDate": "",
       "versionDescription": ""
     }
