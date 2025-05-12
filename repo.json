@@ -1,137 +1,135 @@
 {
-  "name": "Proyecto787 Repository",
-  "identifier": "Proyecto787-Repo",
-  "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/repository.png",
-  "apps": [
-    {
-      "beta": false,
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Whatsapp-Watusi-25.10.72.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Whatsapp.png",
-      "localizedDescription": "",
-      "name": "Whatsapp Watusi [💵][🚫]",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v25.10.72 - Tweak v1.2.68",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/TikTok-Vibe-39.5.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
-      "localizedDescription": "",
-      "name": "TikTok Vibe",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v39.5.0 - Tweak v1.2",
-      "versionDate": "",
-      "versionDescription": "" 
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.91.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
-      "localizedDescription": "",
-      "name": "Twitter BH",
-      "screenshotURLs": [
-        ""                  
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v10.91 - Tweak v4.3",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-Galaxy-10.94.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
-      "localizedDescription": "",
-      "name": "Twitter Galaxy [🚫]",
-      "screenshotURLs": [
-        ""                  
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v10.94 - Tweak v1.4",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-375.2.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
-      "localizedDescription": "",
-      "name": "Instagram Regram [💵]",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v375.2.0 - Tweak v1.0.27",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Facebook-WolfNoAds-510.0.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Facebook.png",
-      "localizedDescription": "",
-      "name": "Facebook Wolf NoAds",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v510.0.0 - Tweaks v2.1 - v1.3",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.15.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
-      "localizedDescription": "",
-      "name": "Reddit Filter",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "",
-      "version": "App v2025.15.0 - Tweak v1.1.7",
-      "versionDate": "",
-      "versionDescription": ""
-    }
-  ],
-  "identifier": "Proyecto787-Repo",
-  "name": "Proyecto787 Repository",
-  "news": [],
-  "userInfo": {}
+    "name": "Proyecto787 Repository",
+    "identifier": "Proyecto787-Repo",
+    "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/repository.png",
+    "apps": [
+        {
+            "beta": false,
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Whatsapp-Watusi-25.10.72.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Whatsapp.png",
+            "localizedDescription": "",
+            "name": "Whatsapp Watusi [💵][🚫]",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v25.10.72 - Tweak v1.2.68",
+            "versionDate": "",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/TikTok-Vibe-39.5.0.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
+            "localizedDescription": "",
+            "name": "TikTok Vibe",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v39.5.0 - Tweak v1.2",
+            "versionDate": "",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-BH-10.91.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
+            "localizedDescription": "",
+            "name": "Twitter BH",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v10.91 - Tweak v4.3",
+            "versionDate": "",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Twitter-Galaxy-10.94.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
+            "localizedDescription": "",
+            "name": "Twitter Galaxy [🚫]",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v10.94 - Tweak v1.4",
+            "versionDate": "",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Instagram-Regram-375.2.0.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
+            "localizedDescription": "",
+            "name": "Instagram Regram [💵]",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v375.2.0 - Tweak v1.0.27",
+            "versionDate": "",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.facebook.Facebook",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Facebook-WolfNoAds-510.0.0.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Facebook.png",
+            "localizedDescription": "",
+            "name": "Facebook Wolf NoAds",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v510.0.0 - Tweaks v2.1 - v1.3",
+            "versionDate": "",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.reddit.Reddit",
+            "developerName": "",
+            "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.15.0.ipa",
+            "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
+            "localizedDescription": "",
+            "name": "Reddit Filter",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 2184796,
+            "subtitle": "",
+            "tintColor": "",
+            "version": "App v2025.15.0 - Tweak v1.1.7",
+            "versionDate": "",
+            "versionDescription": ""
+        }
+    ],
+    "news": [],
+    "userInfo": {}
 }
