@@ -1,1 +1,28 @@
-
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "xENWewho",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Whatsapp-Watusi-25.10.72.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Whatsapp.png",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Messenger!",
+      "name": "Whatsapp Watusi [💵][🚫]",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "App v25.10.72 - Tweak v1.2.68",
+      "versionDate": "",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Proyecto787 Repository",
+  "news": [],
+  "userInfo": {}
+}
