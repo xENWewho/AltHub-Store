@@ -9,16 +9,14 @@
       "localizedDescription": "The all-in-one tweak for WhatsApp Messenger!",
       "name": "Whatsapp Watusi [💵][🚫]",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
       "size": 2184796,
       "subtitle": "",
       "tintColor": "018084",
       "version": "App v25.10.72 - Tweak v1.2.68",
-      "versionDate": "",
-      "versionDescription": ""
+      "versionDate": "12-31-9999",
+      "versionDescription": "Tweaked App !"
     }
   ],
   "identifier": "com.example.source",
