@@ -42,6 +42,26 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "Messenger",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Messenger-Flow-499.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Messenger.png",
+      "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
+      "name": "Messenger Flow",
+      "screenshotURLs": [
+        "9",
+        "10",
+        "11"
+      ],
+      "size": 2184796,
+      "subtitle": "Tweak v1.0",
+      "tintColor": "018084",
+      "version": "App 499.0.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "**12"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "Reddit",
       "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.22.0.ipa",
@@ -49,16 +69,16 @@
       "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
       "name": "Reddit Filter",
       "screenshotURLs": [
-        "9",
-        "10",
-        "11"
+        "13",
+        "14",
+        "15"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.1.7",
       "tintColor": "018084",
       "version": "App v2025.22.00",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**12"
+      "versionDescription": "**16"
     },
     {
       "beta": false,
@@ -69,16 +89,16 @@
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
       "screenshotURLs": [
-        "13",
-        "14",
-        "15"
+        "17",
+        "18",
+        "19"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2",
       "tintColor": "018084",
       "version": "App v39.7.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**16"
+      "versionDescription": "**20"
     },
     {
       "beta": false,
@@ -89,16 +109,16 @@
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi",
       "screenshotURLs": [
-        "17",
-        "18",
-        "19"
+        "21",
+        "22",
+        "23"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2.70",
       "tintColor": "018084",
       "version": "App v25.13.77",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**20"
+      "versionDescription": "**24"
     },
     {
       "beta": false,
@@ -109,16 +129,16 @@
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH NoAds",
       "screenshotURLs": [
-        "21",
-        "22",
-        "23"
+        "25",
+        "26",
+        "27"
       ],
       "size": 2184796,
       "subtitle": "Tweak v4.4 - v1.2.6",
       "tintColor": "018084",
       "version": "App v11.1.5",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**24"
+      "versionDescription": "**28"
     },
     {
       "beta": false,
@@ -129,16 +149,16 @@
       "localizedDescription": "YouTube is a website and app where people watch, upload, and share videos. \n\nYou can find videos about anything — like music, tutorials, funny clips, news, gaming, or shows. People use YouTube to learn, be entertained, or share their own videos with the world.",
       "name": "Youtube Plus",
       "screenshotURLs": [
-        "25",
-        "26",
-        "27"
+        "29",
+        "30",
+        "31"
       ],
       "size": 2184796,
       "subtitle": "Tweak v5.2b1",
       "tintColor": "018084",
       "version": "App v20.22.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**28"
+      "versionDescription": "**32"
     }
   ],
   "identifier": "com.proyecto787.source",
