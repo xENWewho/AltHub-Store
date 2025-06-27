@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Facebook",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Facebook-Glow-518.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Facebook-Glow-519.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Facebook.png",
       "localizedDescription": "Facebook is a website and app where people can connect with friends and family, share photos, videos, and updates about their lives, and see what others are doing. \n\nIt’s also used to join groups, follow news, and find events or businesses.",
       "name": "Facebook Glow",
@@ -14,9 +14,9 @@
         "3"
       ],
       "size": 2184796,
-      "subtitle": "Tweak v1.2",
+      "subtitle": "Tweak v1.3.1",
       "tintColor": "018084",
-      "version": "App v518.0.0",
+      "version": "App v519.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "**4"
     },
