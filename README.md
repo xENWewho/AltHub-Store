@@ -24,6 +24,10 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 | **TWI Galaxy**     | [Download](https://t.me/DENS0R) | Enhance your Twitter experience with custom options.|
 | **Eevee Spotify**  | [Download](https://github.com/whoeevee/EeveeSpotify) |This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.|
 | **Reddit Filter**  | [Download](https://github.com/level3tjg/RedditFilter) | Filter out unwanted content from your Reddit feed.|
+| **Glow For Facebook**  | [Download](https://github.com/dayanch96/Glow) |A simple, clean, and powerful tweak for Facebook.|
+| **Flow For Messenger**  | [Download](https://github.com/dayanch96/Flow) |A lightweight Messenger enhancer|
+
+
 
 ---
 
@@ -62,6 +66,7 @@ Special thanks to the developers who made these tweaks possible:
 - [Developer of Rocket](https://x.com/freemanrepo)
 - [Developer of Wolf](https://x.com/ClassicEmoji)
 - [Developer of FacebookNoAds](https://x.com/p2kdev)
+- [Developer of Glow / Flow](https://x.com/Dayanch96)
 
 
 
