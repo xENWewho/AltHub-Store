@@ -64,7 +64,7 @@
       "beta": false,
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "Reddit",
-      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.20.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/Proyecto787/releases/download/sideloaded/Reddit-Filter-2025.15.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
       "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
       "name": "Reddit Filter",
@@ -76,7 +76,7 @@
       "size": 2184796,
       "subtitle": "Tweak v1.1.7",
       "tintColor": "018084",
-      "version": "App v2025.20.0",
+      "version": "App v2025.15.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "**16"
     },
