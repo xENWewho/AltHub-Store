@@ -7,23 +7,15 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 ## 🚀 Featured Tweaks
 
 | Tweak Name               | Download Link                                                                                       | Description                                                                                                                   |
-|--------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **BH Instagram**         | [Download](https://github.com/BandarHL/BHInstagram)                                                 | An awesome tweak for Instagram!                                                                                               |
-| **BH Twitter**           | [Download](https://github.com/BandarHL/BHTwitter)                                                   | Enhance your Twitter experience with custom options.                                                                          |
-| **Eevee Spotify**        | [Download](https://github.com/whoeevee/EeveeSpotify)                                                | This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics. |
-| **Eos For TikTok**       | [Download](https://t.me/sezoapp)                                                                    | Supercharge your experience on TikTok with 50+ enhancements, utilities and customization.                                     |
+|--------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------                                                                                              |
+| **BH Twitter**           | [Download](https://github.com/BandarHL/BHTwitter)                                                   | Enhance your Twitter experience with custom options.       |
 | **FacebookNoAds**        | [Download](https://www.ios-repo-updates.com/repository/p2kdev-s-repo/package/com.p2kdev.facebooknoads/) | No Ads in the Facebook App!                                                                                                   |
 | **Flow For Messenger**   | [Download](https://github.com/dayanch96/Flow)                                                       | A lightweight Messenger enhancer                                                                                              |
-| **Glow For Facebook**    | [Download](https://github.com/dayanch96/Glow)                                                       | A simple, clean, and powerful tweak for Facebook.                                                                             |
-| **IGFormat**             | [Download](https://t.me/DENS0R)                                                                     | Unlock advanced Instagram features.                                                                                           |
+| **Glow For Facebook**    | [Download](https://github.com/dayanch96/Glow)                                                       | A simple, clean, and powerful tweak for Facebook.                                                                             |                                                                                          |
 | **Reddit Filter**        | [Download](https://github.com/level3tjg/RedditFilter)                                               | Filter out unwanted content from your Reddit feed.                                                                            |
 | **Regram**               | [Download](https://www.patreon.com/FouadRaheb)                                                      | Unlock advanced Instagram features.                                                                                           |
-| **Rocket**               | [Download](https://www.ios-repo-updates.com/repository/majd-alfhaily/package/me.alfhaily.rocket/)   | Save posts and view stories anonymously and do much more.                                                                     |
-| **TWI Galaxy**           | [Download](https://t.me/DENS0R)                                                                     | Enhance your Twitter experience with custom options.                                                                          |
 | **VibeTok**              | [Download](https://t.me/DENS0R)                                                                     | Supercharge your experience on TikTok                                                                                         |
-| **Watusi**               | [Download](https://github.com/FouadRaheb/Watusi-for-WhatsApp)                                       | The all-in-one tweak for WhatsApp Messenger!                                                                                  |
-| **Wolf**                 | [Download](https://www.ios-repo-updates.com/repository/bigboss/package/com.lema.wolf/)              | The all-in-one tweak for Facebook!                                                                                            |
-| **YouTube Patcher**      | [Download](https://cydia.ichitaso.com/depiction/youtubepatcher.html)                                | Unlock premium features on YouTube / Music without a subscription.                                                            |
+| **Watusi**               | [Download](https://github.com/FouadRaheb/Watusi-for-WhatsApp)                                       | The all-in-one tweak for WhatsApp Messenger!                                                                                  |                                                           |
 | **YouTube Plus**         | [Download](https://github.com/dayanch96/YTLite)                                                     | A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.                                          |
 | **YouTubeMusic Ultimate**| [Download](https://github.com/dayanch96/YTMusicUltimate)                                            | The best tweak for the YouTube Music on iOS.                                                                                  |
 
@@ -56,15 +48,11 @@ Special thanks to the developers who made these tweaks possible:
 
 - [Developer of Regram](https://x.com/FouadRaheb)
 - [Developer of Eevee](https://github.com/whoeevee/EeveeSpotify)
-- [Developer of BH Twitter / BH Instagram](https://x.com/BandarHL)
+- [Developer of BH Twitter](https://x.com/BandarHL)
 - [Developer of Watusi](https://x.com/FouadRaheb)
-- [Developer of YouTubePatcher](https://x.com/ichitaso)
 - [Developer of Youtube Plus / YTMusicUltimate](https://x.com/Dayanch96)
-- [Developer of EOS](https://t.me/sezoapp)
 - [Developer of Reddit Filter](https://x.com/level3tjg)
-- [Developer of IGFormat / VibeTok / TWIGalaxy](https://x.com/xDensor)
-- [Developer of Rocket](https://x.com/freemanrepo)
-- [Developer of Wolf](https://x.com/ClassicEmoji)
+- [Developer of VibeTok](https://x.com/xDensor)
 - [Developer of FacebookNoAds](https://x.com/p2kdev)
 - [Developer of Glow / Flow](https://x.com/Dayanch96)
 
