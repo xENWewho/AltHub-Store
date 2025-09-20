@@ -47,7 +47,6 @@ If you encounter any bugs, have any questions, or need support, please open an i
 Special thanks to the developers who made these tweaks possible:
 
 - [Developer of Regram](https://x.com/FouadRaheb)
-- [Developer of Eevee](https://github.com/whoeevee/EeveeSpotify)
 - [Developer of BH Twitter](https://x.com/BandarHL)
 - [Developer of Watusi](https://x.com/FouadRaheb)
 - [Developer of Youtube Plus / YTMusicUltimate](https://x.com/Dayanch96)
