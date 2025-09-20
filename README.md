@@ -17,7 +17,7 @@ Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked 
 | **VibeTok**              | [Download](https://t.me/DENS0R)                                                                     | Supercharge your experience on TikTok                                                                                         |
 | **Watusi**               | [Download](https://github.com/FouadRaheb/Watusi-for-WhatsApp)                                       | The all-in-one tweak for WhatsApp Messenger!                                                                                  |                                                           |
 | **YouTube Plus**         | [Download](https://github.com/dayanch96/YTLite)                                                     | A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.                                          |
-| **YouTubeMusic Ultimate**| [Download](https://github.com/dayanch96/YTMusicUltimate)                                            | The best tweak for the YouTube Music on iOS.                                                                                  |
+| **YouTubeMusic Ultimate**| [Download](https://github.com/dayanch96/YTMusicUltimate)                                            | The best tweak for YouTube Music on iOS.                                                                                  |
 
 
 
