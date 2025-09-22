@@ -5,7 +5,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Facebook",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Glow-524.0.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Facebook.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Facebook.png",
       "localizedDescription": "Facebook is a website and app where people can connect with friends and family, share photos, videos, and updates about their lives, and see what others are doing. \n\nIt’s also used to join groups, follow news, and find events or businesses.",
       "name": "Facebook Glow",
       "screenshotURLs": [
@@ -25,7 +25,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-391.0.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Instagram.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Instagram.png",
       "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
       "name": "Instagram Regram 💵",
       "screenshotURLs": [
@@ -45,7 +45,7 @@
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Messenger",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Messenger-Flow-518.0.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Messenger.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Messenger.png",
       "localizedDescription": "Messenger is an app that lets you send messages, make voice and video calls, and share photos or videos with friends. \n\nIt works with Facebook and can be used on phones, tablets, and computers.",
       "name": "Messenger Flow",
       "screenshotURLs": [
@@ -65,7 +65,7 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "Reddit",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Reddit-Filter-2025.10.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Reddit.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Reddit.png",
       "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
       "name": "Reddit Filter",
       "screenshotURLs": [
@@ -85,7 +85,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Spotify-Eevee-9.0.64.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Spotify.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Spotify.png",
       "localizedDescription": "Spotify is an app that lets you listen to music and podcasts anytime. \n\nYou can search for songs, make playlists, and discover new artists. It works on phones, computers, and other devices.",
       "name": "Spotify Eevee",
       "screenshotURLs": [
@@ -105,7 +105,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-40.8.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Tiktok.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
       "screenshotURLs": [
@@ -125,7 +125,7 @@
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "Whatsapp",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-25.20.83.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Whatsapp.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Whatsapp.png",
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
       "screenshotURLs": [
@@ -145,7 +145,7 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.10.1.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/X.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/X.png",
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
       "screenshotURLs": [
@@ -165,7 +165,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Youtube",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Youtube-Plus-20.30.5.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/Youtube.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Youtube.png",
       "localizedDescription": "YouTube is a website and app where people watch, upload, and share videos. \n\nYou can find videos about anything — like music, tutorials, funny clips, news, gaming, or shows. People use YouTube to learn, be entertained, or share their own videos with the world.",
       "name": "Youtube Plus",
       "screenshotURLs": [
@@ -185,7 +185,7 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Youtube Music",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/YoutubeMusic-Ultimate-8.30.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/Proyecto787/refs/heads/main/YoutubeMusic.png",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/YoutubeMusic.png",
       "localizedDescription": "YouTube Music is an app that lets you listen to music and watch music videos. \n\nYou can search for songs, create playlists, and discover new music. It works on phones, computers, and other devices.",
       "name": "Youtube Music Ultimate",
       "screenshotURLs": [
