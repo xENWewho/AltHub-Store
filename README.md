@@ -1,6 +1,6 @@
-# 📱 PROYECTO787 📱
+# 📱 AltHub-Store 📱
 
-Welcome to **PROYECTO787** ! Here, you’ll find a curated selection of tweaked iOS apps that offer enhanced features and improved functionality over the original versions.
+Welcome to **AltHub-Store** ! Here, you’ll find a curated selection of tweaked iOS apps that offer enhanced features and improved functionality over the original versions.
 
 ---
 
@@ -38,7 +38,7 @@ To install the tweaked apps on your iOS device, use one of the following sideloa
 
 ## 🛠 Issues and Support
 
-If you encounter any bugs, have any questions, or need support, please open an issue in the [Issues section](https://github.com/xENWewho/Proyecto787/issues). **However, note that issues related to the original apps are outside the scope of this repository**. 
+If you encounter any bugs, have any questions, or need support, please open an issue in the [Issues section](https://github.com/xENWewho/AltHub-Store/issues). **However, note that issues related to the original apps are outside the scope of this repository**. 
 
 ---
 
