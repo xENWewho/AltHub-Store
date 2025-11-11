@@ -9,7 +9,6 @@ Welcome to **AltHub-Store** ! Here, you’ll find a curated selection of tweaked
 | Tweak Name               | Download Link                                                                                       | Description                                                                                                                   |
 |--------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------                                                                                              |
 | **BH Twitter**           | [Download](https://github.com/BandarHL/BHTwitter)                                                   | Enhance your Twitter experience with custom options.       |
-| **FacebookNoAds**        | [Download](https://www.ios-repo-updates.com/repository/p2kdev-s-repo/package/com.p2kdev.facebooknoads/) | No Ads in the Facebook App!                                                                                                   |
 | **Flow For Messenger**   | [Download](https://github.com/dayanch96/Flow)                                                       | A lightweight Messenger enhancer                                                                                              |
 | **Glow For Facebook**    | [Download](https://github.com/dayanch96/Glow)                                                       | A simple, clean, and powerful tweak for Facebook.                                                                             |                                                                                          |
 | **Reddit Filter**        | [Download](https://github.com/level3tjg/RedditFilter)                                               | Filter out unwanted content from your Reddit feed.                                                                            |
@@ -52,7 +51,6 @@ Special thanks to the developers who made these tweaks possible:
 - [Developer of Youtube Plus / YTMusicUltimate](https://x.com/Dayanch96)
 - [Developer of Reddit Filter](https://x.com/level3tjg)
 - [Developer of VibeTok](https://x.com/xDensor)
-- [Developer of FacebookNoAds](https://x.com/p2kdev)
 - [Developer of Glow / Flow](https://x.com/Dayanch96)
 
 
