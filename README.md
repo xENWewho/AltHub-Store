@@ -32,7 +32,6 @@ To install the tweaked apps on your iOS device, use one of the following sideloa
 | **Sideloadly** | [Download](https://sideloadly.io/)      | Easy-to-use tool to sideload apps on iOS devices. |
 | **Feather** | [Download](https://github.com/khcrysalis/Feather/) | Lightweight and efficient tool for sideloading apps with Signing Certificate. |
 | **Pyzule - Cyan** | [Download](https://github.com/asdfzxcvbn/pyzule-rw/) | An azule "clone" written in python3. |
-| **EeveeDecryptBot** | [Download](https://t.me/eeveedecrypterbot/) | Decrypt iPA and Download. |
 ---
 
 ## 🛠 Issues and Support
@@ -45,15 +44,13 @@ If you encounter any bugs, have any questions, or need support, please open an i
 
 Special thanks to the developers who made these tweaks possible:
 
-- [Developer of Regram](https://x.com/FouadRaheb)
 - [Developer of BH Twitter](https://x.com/BandarHL)
+- [Developer of Glow / Flow](https://x.com/Dayanch96)
+- [Developer of Reddit Filter](https://x.com/level3tjg)
+- [Developer of Regram](https://x.com/FouadRaheb)
+- [Developer of VibeTok](https://x.com/xDensor)
 - [Developer of Watusi](https://x.com/FouadRaheb)
 - [Developer of Youtube Plus / YTMusicUltimate](https://x.com/Dayanch96)
-- [Developer of Reddit Filter](https://x.com/level3tjg)
-- [Developer of VibeTok](https://x.com/xDensor)
-- [Developer of Glow / Flow](https://x.com/Dayanch96)
-
-
 
 We truly appreciate their effort and creativity in enhancing the app experiences.
 
