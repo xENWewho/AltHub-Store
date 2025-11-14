@@ -179,26 +179,6 @@
       "version": "App v20.30.5",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "**36"
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Youtube Music",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/YoutubeMusic-Ultimate-8.30.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/YoutubeMusic.png",
-      "localizedDescription": "YouTube Music is an app that lets you listen to music and watch music videos. \n\nYou can search for songs, create playlists, and discover new music. It works on phones, computers, and other devices.",
-      "name": "Youtube Music Ultimate ⬇️🚫",
-      "screenshotURLs": [
-        "37",
-        "38",
-        "39"
-      ],
-      "size": 2184796,
-      "subtitle": "Tweak v2.3.1",
-      "tintColor": "018084",
-      "version": "App v8.30",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**40"
     }
   ],
   "identifier": "com.althub-store.source",
