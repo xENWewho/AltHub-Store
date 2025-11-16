@@ -82,26 +82,6 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Spotify-Eevee-9.0.64.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Spotify.png",
-      "localizedDescription": "Spotify is an app that lets you listen to music and podcasts anytime. \n\nYou can search for songs, make playlists, and discover new artists. It works on phones, computers, and other devices.",
-      "name": "Spotify Eevee ⬇️🚫",
-      "screenshotURLs": [
-        "17",
-        "18",
-        "19"
-      ],
-      "size": 2184796,
-      "subtitle": "Tweak v6.0.2",
-      "tintColor": "018084",
-      "version": "App v9.0.64",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**20"
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
       "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-42.4.0.ipa",
@@ -109,16 +89,16 @@
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
       "screenshotURLs": [
-        "21",
-        "22",
-        "23"
+        "17",
+        "18",
+        "19"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2",
       "tintColor": "018084",
       "version": "App v42.4.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**24"
+      "versionDescription": "**20"
     },
     {
       "beta": false,
@@ -129,16 +109,16 @@
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
       "screenshotURLs": [
-        "25",
-        "26",
-        "27"
+        "21",
+        "22",
+        "23"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2.78",
       "tintColor": "018084",
       "version": "App v25.20.83",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**28"
+      "versionDescription": "**24"
     },
     {
       "beta": false,
@@ -149,36 +129,16 @@
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
       "screenshotURLs": [
-        "29",
-        "30",
-        "31"
+        "25",
+        "26",
+        "27"
       ],
       "size": 2184796,
       "subtitle": "Tweak v4.4",
       "tintColor": "018084",
       "version": "App v11.38.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**32"
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Youtube",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Youtube-Plus-20.30.5.ipa",
-      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Youtube.png",
-      "localizedDescription": "YouTube is a website and app where people watch, upload, and share videos. \n\nYou can find videos about anything — like music, tutorials, funny clips, news, gaming, or shows. People use YouTube to learn, be entertained, or share their own videos with the world.",
-      "name": "Youtube Plus ⬇️🚫",
-      "screenshotURLs": [
-        "33",
-        "34",
-        "35"
-      ],
-      "size": 2184796,
-      "subtitle": "Tweak v5.2b2",
-      "tintColor": "018084",
-      "version": "App v20.30.5",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "**36"
+      "versionDescription": "**28"
     }
   ],
   "identifier": "com.althub-store.source",
