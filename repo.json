@@ -44,7 +44,7 @@
       "beta": false,
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Messenger",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Messenger-Flow-533.1.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Messenger-Flow-534.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Messenger.png",
       "localizedDescription": "Messenger is an app that lets you send messages, make voice and video calls, and share photos or videos with friends. \n\nIt works with Facebook and can be used on phones, tablets, and computers.",
       "name": "Messenger Flow",
@@ -56,7 +56,7 @@
       "size": 2184796,
       "subtitle": "Tweak v1.0",
       "tintColor": "018084",
-      "version": "App 533.1.0",
+      "version": "App 534.0.0",
       "versionDate": "2025-11-17T14:00:00-07:00",
       "versionDescription": "**12"
     },
