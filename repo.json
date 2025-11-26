@@ -84,7 +84,7 @@
       "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-42.6.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-42.7.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
@@ -96,7 +96,7 @@
       "size": 2184796,
       "subtitle": "Tweak v1.2",
       "tintColor": "018084",
-      "version": "App v42.6.0",
+      "version": "App v42.7.0",
       "versionDate": "2025-11-17T14:00:00-07:00",
       "versionDescription": "**20"
     },
@@ -124,7 +124,7 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.42.1.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.42.2.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/x.png",
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
@@ -136,7 +136,7 @@
       "size": 2184796,
       "subtitle": "Tweak v4.4",
       "tintColor": "018084",
-      "version": "App v11.42.1",
+      "version": "App v11.42.2",
       "versionDate": "2025-11-17T14:00:00-07:00",
       "versionDescription": "**28"
     }
