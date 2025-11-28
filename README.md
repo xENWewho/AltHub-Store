@@ -77,6 +77,7 @@ Once enabled:
 •	Discord
 	
 2.	Instead of opening in browser, the link will launch:
+
 •	Your sideloaded app directly ✅
 
 ---
