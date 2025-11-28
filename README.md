@@ -33,7 +33,6 @@ To install the tweaked apps on your iOS device, use one of the following sideloa
 
 ---
 
-
 ## 📱 OpenInYT – Sideloaded Apps
 
 This guide explains how to use OpenInYT to open links directly in your sideloaded apps instead of Safari or the App Store.
