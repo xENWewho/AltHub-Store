@@ -16,9 +16,23 @@ Welcome to **AltHub-Store** ! Here, you’ll find a curated selection of tweaked
 | **VibeTok**              | [Download](https://t.me/DENS0R)                                                                     | Supercharge your experience on TikTok                                                                                         |
 | **Watusi**               | [Download](https://github.com/FouadRaheb/Watusi-for-WhatsApp)                                       | The all-in-one tweak for WhatsApp Messenger!                                                                                  |                                                           |
 | **YouTube Plus**         | [Download](https://github.com/dayanch96/YTLite)                                                     | A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.                                          |
-| **YouTubeMusic Ultimate**| [Download](https://github.com/dayanch96/YTMusicUltimate)                                            | The best tweak for YouTube Music on iOS.                                                                                  |
+| **YouTubeMusic Ultimate**| [Download](https://github.com/dayanch96/YTMusicUltimate)                                            | The best tweak for YouTube Music on iOS.                                                                                               |
 
 ---
+
+## ⚙️ Sideloading And iPA Tools
+
+To install the tweaked apps on your iOS device, use one of the following sideloading tools:
+
+| Tool        | Download Link                              | Description                                    |
+|-------------|--------------------------------------------|------------------------------------------------|
+| **AltStore**| [Download](https://altstore.io/)           | A reliable sideloading tool that installs apps via your Apple ID. |
+| **Sideloadly** | [Download](https://sideloadly.io/)      | Easy-to-use tool to sideload apps on iOS devices. |
+| **Feather** | [Download](https://github.com/khcrysalis/Feather/) | Lightweight and efficient tool for sideloading apps with Signing Certificate. |
+| **Pyzule - Cyan** | [Download](https://github.com/asdfzxcvbn/pyzule-rw/) | An azule "clone" written in python3. |
+
+---
+
 
 ## 📱 OpenInYT – Sideloaded Apps
 
@@ -80,18 +94,6 @@ Once enabled:
 
 •	Your sideloaded app directly ✅
 
----
-
-## ⚙️ Sideloading And iPA Tools
-
-To install the tweaked apps on your iOS device, use one of the following sideloading tools:
-
-| Tool        | Download Link                              | Description                                    |
-|-------------|--------------------------------------------|------------------------------------------------|
-| **AltStore**| [Download](https://altstore.io/)           | A reliable sideloading tool that installs apps via your Apple ID. |
-| **Sideloadly** | [Download](https://sideloadly.io/)      | Easy-to-use tool to sideload apps on iOS devices. |
-| **Feather** | [Download](https://github.com/khcrysalis/Feather/) | Lightweight and efficient tool for sideloading apps with Signing Certificate. |
-| **Pyzule - Cyan** | [Download](https://github.com/asdfzxcvbn/pyzule-rw/) | An azule "clone" written in python3. |
 ---
 
 ## 🛠 Issues and Support
