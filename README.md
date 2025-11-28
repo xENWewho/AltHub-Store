@@ -18,7 +18,64 @@ Welcome to **AltHub-Store** ! Here, you’ll find a curated selection of tweaked
 | **YouTube Plus**         | [Download](https://github.com/dayanch96/YTLite)                                                     | A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.                                          |
 | **YouTubeMusic Ultimate**| [Download](https://github.com/dayanch96/YTMusicUltimate)                                            | The best tweak for YouTube Music on iOS.                                                                                  |
 
+---
 
+## 📱 OpenInYT – Sideloaded Apps
+
+This guide explains how to use OpenInYT to open links directly in your sideloaded apps instead of Safari or the App Store.
+
+---
+
+✅ What is OpenInYT?
+
+OpenInYT is an iOS app + Safari Extension that forces links (YouTube, TikTok, Instagram, Twitter, etc.) to open directly in their installed app — including sideloaded versions.
+
+Perfect for users who install apps using tools like:
+	•	AltStore
+	•	SideStore
+	•	Sideloadly
+	•	TrollStore
+
+---
+
+📥 Download OpenInYT
+
+Get it from the official Apple App Store:
+👉 https://apps.apple.com/app/openinyt/id1591585819
+
+---
+
+⚙️ How to Set Up OpenInYT
+
+1. Install the app
+
+Install OpenInYT normally from the App Store.
+
+2. Enable Safari Extension
+	1.	Open Settings
+	2.	Go to Safari
+	3.	Tap Extensions
+	4.	Tap OpenInYT
+	5.	Turn on:
+	•	✅ Allow Extension
+	•	✅ All Websites
+
+3. Grant Permissions
+
+Open the OpenInYT app once and allow any requested permissions so it can intercept links correctly.
+
+---
+
+🚀 Using with Sideloaded Apps
+
+Once enabled:
+	1.	Tap a YouTube / TikTok / Instagram link from:
+	•	Safari
+	•	Notes
+	•	Messages
+	•	Discord
+	2.	Instead of opening in browser, the link will launch:
+	•	Your sideloaded app directly ✅
 
 ---
 
