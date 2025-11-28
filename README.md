@@ -69,15 +69,15 @@ Open the OpenInYT app once and allow any requested permissions so it can interce
 🚀 Using with Sideloaded Apps
 
 Once enabled:
-	1.	Tap a YouTube / TikTok / Instagram link from:
+1.	Tap a YouTube / TikTok / Instagram link from:
 	
-	•	Safari
-	•	Notes
-	•	Messages
-	•	Discord
+•	Safari
+•	Notes
+•	Messages
+•	Discord
 	
-	2.	Instead of opening in browser, the link will launch:
-	•	Your sideloaded app directly ✅
+2.	Instead of opening in browser, the link will launch:
+•	Your sideloaded app directly ✅
 
 ---
 
