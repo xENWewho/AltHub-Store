@@ -44,10 +44,10 @@ This guide explains how to use OpenInYT to open links directly in your sideloade
 OpenInYT is an iOS app + Safari Extension that forces links (YouTube, TikTok, Instagram, Twitter, etc.) to open directly in their installed app — including sideloaded versions.
 
 Perfect for users who install apps using tools like:
-	•	AltStore
-	•	SideStore
-	•	Sideloadly
-	•	TrollStore
+
+•	AltStore
+•	Sideloadly
+•	Feather
 
 ---
 
