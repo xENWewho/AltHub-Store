@@ -49,16 +49,16 @@
       "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
       "name": "Reddit Filter",
       "screenshotURLs": [
-        "13",
-        "14",
-        "15"
+        "9",
+        "10",
+        "11"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.1.8",
       "tintColor": "018084",
       "version": "App v2025.48.0",
       "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**16"
+      "versionDescription": "**12"
     },
     {
       "beta": false,
@@ -69,16 +69,16 @@
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
       "screenshotURLs": [
-        "17",
-        "18",
-        "19"
+        "13",
+        "14",
+        "15"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2",
       "tintColor": "018084",
       "version": "App v42.8.0",
       "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**20"
+      "versionDescription": "**16"
     },
     {
       "beta": false,
@@ -89,16 +89,16 @@
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
       "screenshotURLs": [
-        "21",
-        "22",
-        "23"
+        "17",
+        "18",
+        "19"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2.93",
       "tintColor": "018084",
       "version": "App v25.33.73",
       "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**24"
+      "versionDescription": "**20"
     },
     {
       "beta": false,
@@ -109,16 +109,16 @@
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
       "screenshotURLs": [
-        "25",
-        "26",
-        "27"
+        "21",
+        "22",
+        "23"
       ],
       "size": 2184796,
       "subtitle": "Tweak v4.4",
       "tintColor": "018084",
       "version": "App v11.43.1",
       "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**28"
+      "versionDescription": "**24"
     }
   ],
   "identifier": "com.althub-store.source",
