@@ -84,7 +84,7 @@
       "beta": false,
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "Whatsapp",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-25.33.73.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-25.35.72.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Whatsapp.png",
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
@@ -94,9 +94,9 @@
         "19"
       ],
       "size": 2184796,
-      "subtitle": "Tweak v1.2.93",
+      "subtitle": "Tweak v1.2.98",
       "tintColor": "018084",
-      "version": "App v25.33.73",
+      "version": "App v25.35.72",
       "versionDate": "2025-11-17T14:00:00-07:00",
       "versionDescription": "**20"
     },
