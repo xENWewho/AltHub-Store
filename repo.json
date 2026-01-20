@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Facebook",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Glow-543.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Glow-544.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Facebook.png",
       "localizedDescription": "Facebook is a website and app where people can connect with friends and family, share photos, videos, and updates about their lives, and see what others are doing. \n\nIt’s also used to join groups, follow news, and find events or businesses.",
       "name": "Facebook Glow",
@@ -16,15 +16,15 @@
       "size": 2184796,
       "subtitle": "Tweak v1.3.1",
       "tintColor": "018084",
-      "version": "App v543.0.0",
-      "versionDate": "2025-11-17T14:00:00-07:00",
+      "version": "App v544.0.0",
+      "versionDate": "2026-01-20T14:00:00-07:00",
       "versionDescription": "**4"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-410.1.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-412.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Instagram.png",
       "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
       "name": "Instagram Regram 💵",
@@ -36,9 +36,29 @@
       "size": 2184796,
       "subtitle": "Tweak v2.4",
       "tintColor": "018084",
-      "version": "App v410.1.0",
-      "versionDate": "2025-11-17T14:00:00-07:00",
+      "version": "App v412.0.0",
+      "versionDate": "2026-01-20T14:00:00-07:00",
       "versionDescription": "**8"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "Messenger",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Messenger-Flow-544.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Messenger.png",
+      "localizedDescription": "Messenger is an app that lets you send messages, make voice and video calls, and share photos or videos with friends. \n\nIt works with Facebook and can be used on phones, tablets, and computers.",
+      "name": "Messenger flow",
+      "screenshotURLs": [
+        "8",
+        "9",
+        "10"
+      ],
+      "size": 2184796,
+      "subtitle": "Tweak v1.0",
+      "tintColor": "018084",
+      "version": "App v544.0.0",
+      "versionDate": "2026-01-20T14:00:00-07:00",
+      "versionDescription": "**11"
     },
     {
       "beta": false,
@@ -49,56 +69,56 @@
       "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
       "name": "Reddit Filter",
       "screenshotURLs": [
-        "9",
-        "10",
-        "11"
+        "12",
+        "13",
+        "14"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.1.8",
       "tintColor": "018084",
       "version": "App v2025.45.0",
-      "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**12"
+      "versionDate": "2026-01-20T14:00:00-07:00",
+      "versionDescription": "**15"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-43.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-43.1.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
       "screenshotURLs": [
-        "13",
-        "14",
-        "15"
+        "16",
+        "17",
+        "18"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.2",
       "tintColor": "018084",
-      "version": "App v43.0.0",
-      "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**16"
+      "version": "App v43.1.0",
+      "versionDate": "2026-01-20T14:00:00-07:00",
+      "versionDescription": "**19"
     },
     {
       "beta": false,
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "Whatsapp",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-25.35.72.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-25.37.76.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Whatsapp.png",
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
       "screenshotURLs": [
-        "17",
-        "18",
-        "19"
+        "20",
+        "21",
+        "22"
       ],
       "size": 2184796,
-      "subtitle": "Tweak v1.2.98",
+      "subtitle": "Tweak v1.3.1",
       "tintColor": "018084",
-      "version": "App v25.35.72",
-      "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**20"
+      "version": "App v25.37.76",
+      "versionDate": "2026-01-20T14:00:00-07:00",
+      "versionDescription": "**23"
     },
     {
       "beta": false,
@@ -109,16 +129,16 @@
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
       "screenshotURLs": [
-        "21",
-        "22",
-        "23"
+        "24",
+        "25",
+        "26"
       ],
       "size": 2184796,
       "subtitle": "Tweak v4.4",
       "tintColor": "018084",
       "version": "App v11.50.2",
-      "versionDate": "2025-11-17T14:00:00-07:00",
-      "versionDescription": "**24"
+      "versionDate": "2026-01-20T14:00:00-07:00",
+      "versionDescription": "**27"
     }
   ],
   "identifier": "com.althub-store.source",
