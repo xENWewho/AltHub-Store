@@ -84,7 +84,7 @@
       "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-43.5.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-43.6.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
@@ -96,7 +96,7 @@
       "size": 2184796,
       "subtitle": "Tweak v1.69",
       "tintColor": "018084",
-      "version": "App v43.5.0",
+      "version": "App v43.6.1",
       "versionDate": "2026-01-20T14:00:00-07:00",
       "versionDescription": "**19"
     },
