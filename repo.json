@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Facebook",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Glow-558.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Glow-559.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Facebook.png",
       "localizedDescription": "Facebook is a website and app where people can connect with friends and family, share photos, videos, and updates about their lives, and see what others are doing. \n\nIt’s also used to join groups, follow news, and find events or businesses.",
       "name": "Facebook Glow",
@@ -16,7 +16,7 @@
       "size": 2184796,
       "subtitle": "Tweak v1.3.1",
       "tintColor": "018084",
-      "version": "App v558.0.0",
+      "version": "App v559.0.0",
       "versionDate": "2026-04-21T14:00:00-07:00",
       "versionDescription": "**4"
     },
@@ -34,7 +34,7 @@
         "7"
       ],
       "size": 2184796,
-      "subtitle": "Tweak v2.8.1",
+      "subtitle": "Tweak v3.0",
       "tintColor": "018084",
       "version": "App v426.0.0",
       "versionDate": "2026-04-21T14:00:00-07:00",
@@ -84,7 +84,7 @@
       "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-44.8.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-44.9.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
@@ -96,7 +96,7 @@
       "size": 2184796,
       "subtitle": "Tweak v1.72",
       "tintColor": "018084",
-      "version": "App v44.8.0",
+      "version": "App v44.9.0",
       "versionDate": "2026-04-21T14:00:00-07:00",
       "versionDescription": "**19"
     },
@@ -104,7 +104,7 @@
       "beta": false,
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "Whatsapp",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-26.14.73.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-26.16.74.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Whatsapp.png",
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
@@ -114,9 +114,9 @@
         "22"
       ],
       "size": 2184796,
-      "subtitle": "Tweak v1.3.9",
+      "subtitle": "Tweak v1.3.10",
       "tintColor": "018084",
-      "version": "App v26.14.73",
+      "version": "App v26.16.74",
       "versionDate": "2026-04-21T14:00:00-07:00",
       "versionDescription": "**23"
     },
@@ -124,7 +124,7 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.84.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.87.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/x.png",
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
@@ -136,7 +136,7 @@
       "size": 2184796,
       "subtitle": "Tweak v4.4",
       "tintColor": "018084",
-      "version": "App v11.84",
+      "version": "App v11.87.1",
       "versionDate": "2026-04-21T14:00:00-07:00",
       "versionDescription": "**27"
     }
