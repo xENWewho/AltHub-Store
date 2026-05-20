@@ -10,7 +10,8 @@ Welcome to **AltHub-Store** ! Here, you’ll find a curated selection of tweaked
 |--------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------                                                                                              |
 | **BH Twitter**           | [Download](https://github.com/BandarHL/BHTwitter)                                                   | Enhance your Twitter experience with custom options.       |
 | **Flow For Messenger**   | [Download](https://github.com/dayanch96/Flow)                                                       | A lightweight Messenger enhancer                                                                                              |
-| **Glow For Facebook**    | [Download](https://github.com/dayanch96/Glow)                                                       | A simple, clean, and powerful tweak for Facebook.                                                                             |                                                                                          |
+| **Glow For Facebook**    | [Download](https://github.com/dayanch96/Glow)                                                       | A simple, clean, and powerful tweak for Facebook.                                                                             | 
+| **MSGPlusX**    | [Download](https://github.com/dayanch96/Glow)                                                       | Make Messenger Better.                                                                             |                                                   
 | **Reddit Filter**        | [Download](https://github.com/level3tjg/RedditFilter)                                               | Filter out unwanted content from your Reddit feed.                                                                            |
 | **Regram**               | [Download](https://www.patreon.com/FouadRaheb)                                                      | Unlock advanced Instagram features.                                                                                           |
 | **VibeTok**              | [Download](https://t.me/DENS0R)                                                                     | Supercharge your experience on TikTok                                                                                         |
@@ -107,6 +108,7 @@ Special thanks to the developers who made these tweaks possible:
 
 - [Developer of BH Twitter](https://x.com/BandarHL)
 - [Developer of Glow / Flow](https://x.com/Dayanch96)
+- [Developer of MSGPlusX](https://x.com/xDensor)
 - [Developer of Reddit Filter](https://x.com/level3tjg)
 - [Developer of Regram](https://x.com/FouadRaheb)
 - [Developer of VibeTok](https://x.com/xDensor)
