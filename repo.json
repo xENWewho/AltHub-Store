@@ -13,7 +13,7 @@
         "2",
         "3"
       ],
-      "size": 2184796,
+      "size": 202,
       "subtitle": "Tweak v1.3.1",
       "tintColor": "018084",
       "version": "App v562.0.0",
@@ -44,7 +44,7 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-429.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-430.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Instagram.png",
       "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
       "name": "Instagram Regram 💵",
@@ -56,7 +56,7 @@
       "size": 2184796,
       "subtitle": "Tweak v3.0.1",
       "tintColor": "018084",
-      "version": "App v429.0.0",
+      "version": "App v430.0.0",
       "versionDate": "2026-05-24T14:00:00-07:00",
       "versionDescription": "**12"
     },
