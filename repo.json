@@ -17,8 +17,28 @@
       "subtitle": "Tweak v1.3.1",
       "tintColor": "018084",
       "version": "App v562.0.0",
-      "versionDate": "2026-04-21T14:00:00-07:00",
+      "versionDate": "2026-05-24T14:00:00-07:00",
       "versionDescription": "**4"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Format-430.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Instagram.png",
+      "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
+      "name": "Instagram Format",
+      "screenshotURLs": [
+        "5",
+        "6",
+        "7"
+      ],
+      "size": 2184796,
+      "subtitle": "Tweak v2.0.0",
+      "tintColor": "018084",
+      "version": "App v430.0.0",
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**8"
     },
     {
       "beta": false,
@@ -29,16 +49,16 @@
       "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
       "name": "Instagram Regram 💵",
       "screenshotURLs": [
-        "5",
-        "6",
-        "7"
+        "9",
+        "10",
+        "11"
       ],
       "size": 2184796,
       "subtitle": "Tweak v3.0.1",
       "tintColor": "018084",
       "version": "App v429.0.0",
-      "versionDate": "2026-04-21T14:00:00-07:00",
-      "versionDescription": "**8"
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**12"
     },
     {
       "beta": false,
@@ -49,16 +69,16 @@
       "localizedDescription": "Messenger is an app that lets you send messages, make voice and video calls, and share photos or videos with friends. \n\nIt works with Facebook and can be used on phones, tablets, and computers.",
       "name": "Messenger PlusX",
       "screenshotURLs": [
-        "8",
-        "9",
-        "10"
+        "13",
+        "14",
+        "15"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.0",
       "tintColor": "018084",
       "version": "App v562.0.0",
-      "versionDate": "2026-01-20T14:00:00-07:00",
-      "versionDescription": "**11"
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**16"
     },
     {
       "beta": false,
@@ -69,16 +89,16 @@
       "localizedDescription": "Reddit is a website and app where people talk about anything by posting questions, stories, pictures, or news. \n\n It’s like a huge collection of little communities (called subreddits) where each one is about a different topic — like movies, sports, funny memes, advice, or hobbies.",
       "name": "Reddit Filter",
       "screenshotURLs": [
-        "12",
-        "13",
-        "14"
+        "17",
+        "18",
+        "19"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.1.8",
       "tintColor": "018084",
       "version": "App v2025.45.0",
-      "versionDate": "2026-01-20T14:00:00-07:00",
-      "versionDescription": "**15"
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**20"
     },
     {
       "beta": false,
@@ -89,16 +109,16 @@
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
       "screenshotURLs": [
-        "16",
-        "17",
-        "18"
+        "21",
+        "22",
+        "23"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.73",
       "tintColor": "018084",
       "version": "App v45.2.0",
-      "versionDate": "2026-04-21T14:00:00-07:00",
-      "versionDescription": "**19"
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**24"
     },
     {
       "beta": false,
@@ -109,36 +129,36 @@
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
       "screenshotURLs": [
-        "20",
-        "21",
-        "22"
+        "25",
+        "26",
+        "27"
       ],
       "size": 2184796,
       "subtitle": "Tweak v1.3.12",
       "tintColor": "018084",
       "version": "App v26.17.76",
-      "versionDate": "2026-04-21T14:00:00-07:00",
-      "versionDescription": "**23"
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**28"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.92.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/X-BH-11.93.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/x.png",
       "localizedDescription": "X (which used to be called Twitter) is a website and app where people post short messages, called posts or tweets, to share thoughts, news, jokes, or updates quickly. \n\nPeople use it to talk about what’s happening right now, follow news, join conversations, and see what famous people or brands are saying.",
       "name": "X BH",
       "screenshotURLs": [
-        "24",
-        "25",
-        "26"
+        "29",
+        "30",
+        "31"
       ],
       "size": 2184796,
       "subtitle": "Tweak v4.4",
       "tintColor": "018084",
-      "version": "App v11.92",
-      "versionDate": "2026-04-21T14:00:00-07:00",
-      "versionDescription": "**27"
+      "version": "App v11.93",
+      "versionDate": "2026-05-24T14:00:00-07:00",
+      "versionDescription": "**32"
     }
   ],
   "identifier": "com.althub-store.source",
