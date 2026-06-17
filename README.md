@@ -121,7 +121,7 @@ We truly appreciate their effort and creativity in enhancing the app experiences
 
 ---
 
-##⚠️ Note
+## ⚠️ Note
 
 - Apps in repo marked with an asterisk (*) cannot be updated to the app latest available version because the tweak is not compatible with newer releases. To ensure full functionality and stability, these apps are in the latest version that is fully compatible with the tweak.
 
