@@ -24,7 +24,7 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-447.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-448.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Instagram.png",
       "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
       "name": "Instagram Regram 💵",
@@ -34,9 +34,9 @@
         "7"
       ],
       "size": 230172480,
-      "subtitle": "Tweak 6.1",
+      "subtitle": "Tweak 6.2",
       "tintColor": "018084",
-      "version": "App 447.0.0",
+      "version": "App 448.0.0",
       "versionDate": "2026-09-15T14:00:00-07:00",
       "versionDescription": "**8"
     },
@@ -84,7 +84,7 @@
       "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-46.9.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-Vibe-47.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok Vibe",
@@ -96,7 +96,7 @@
       "size": 380172480,
       "subtitle": "Tweak 1.75",
       "tintColor": "018084",
-      "version": "App 46.9.0",
+      "version": "App 47.0.0",
       "versionDate": "2026-09-15T14:00:00-07:00",
       "versionDescription": "**20"
     },
