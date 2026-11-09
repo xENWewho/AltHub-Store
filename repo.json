@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Facebook",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Plus-584.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Facebook-Plus-586.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Facebook.png",
       "localizedDescription": "Facebook is a website and app where people can connect with friends and family, share photos, videos, and updates about their lives, and see what others are doing. \n\nIt’s also used to join groups, follow news, and find events or businesses.",
       "name": "Facebook Plus",
@@ -14,17 +14,17 @@
         "3"
       ],
       "size": 200813376,
-      "subtitle": "Tweak 1.0.2",
+      "subtitle": "Tweak 1.0.5",
       "tintColor": "018084",
       "version": "App 584.0",
-      "versionDate": "2026-10-18T14:00:00-07:00",
+      "versionDate": "2026-11-08T14:00:00-07:00",
       "versionDescription": "**4"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-451.0.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Instagram-Regram-454.1.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Instagram.png",
       "localizedDescription": "Instagram is a website and app where people mainly share photos and videos about their life, hobbies, or work. It’s a place to show what you’re doing, what you like, or what you create. \n\nPeople also follow others — like friends, celebrities, or brands — to see their pictures and videos.",
       "name": "Instagram Regram 💵",
@@ -34,17 +34,17 @@
         "7"
       ],
       "size": 230172480,
-      "subtitle": "Tweak 6.4",
+      "subtitle": "Tweak 7.0",
       "tintColor": "018084",
       "version": "App 451.0.0",
-      "versionDate": "2026-10-18T14:00:00-07:00",
+      "versionDate": "2026-11-08T14:00:00-07:00",
       "versionDescription": "**8"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-ASJ-47.1.0.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/TikTok-ASJ-47.6.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Tiktok.png",
       "localizedDescription": "TikTok is an app where people make, watch, and share short videos, usually with music, fun effects, or funny moments. \n\nIt’s mostly used for entertainment, like dancing, jokes, challenges, or quick tips.",
       "name": "TikTok ASJ",
@@ -54,17 +54,17 @@
         "11"
       ],
       "size": 380172480,
-      "subtitle": "Tweak 1.3",
+      "subtitle": "Tweak 1.4.1",
       "tintColor": "018084",
-      "version": "App 47.1.0",
-      "versionDate": "2026-10-18T14:00:00-07:00",
+      "version": "App 47.6.0",
+      "versionDate": "2026-11-08T14:00:00-07:00",
       "versionDescription": "**12"
     },
     {
       "beta": false,
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "Whatsapp",
-      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-26.38.74.ipa",
+      "downloadURL": "https://github.com/xENWewho/AltHub-Store/releases/download/sideloaded/Whatsapp-Watusi-26.42.77.ipa",
       "iconURL": "https://raw.githubusercontent.com/xENWewho/AltHub-Store/refs/heads/main/Whatsapp.png",
       "localizedDescription": "WhatsApp is an app where people can send messages, make calls, send photos, videos, and voice messages to each other using the internet. \n\n It’s mainly for talking with friends, family, or groups easily and for free, without using regular text messaging or phone call minutes.",
       "name": "Whatsapp Watusi 💵",
@@ -74,10 +74,10 @@
         "15"
       ],
       "size": 130172480,
-      "subtitle": "Tweak 1.3.26",
+      "subtitle": "Tweak 1.3.30",
       "tintColor": "018084",
-      "version": "App 26.38.74",
-      "versionDate": "2026-09-30T14:00:00-07:00",
+      "version": "App 26.42.77",
+      "versionDate": "2026-11-08T14:00:00-07:00",
       "versionDescription": "**16"
     },
     {
